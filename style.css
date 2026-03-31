@@ -86,6 +86,7 @@ button {
   font-weight: var(--font-weight-extra-bold);
   border: none;
   font-weight: var(--font-weight-extra-bold);
+  margin-bottom:0.5rem;
 }
 p{
   margin: 0.4rem;
@@ -113,5 +114,4 @@ time {
 font-size: 0.8rem;
   color: var(--color-text-secondary);
   display: block;
-  margin-top: 1rem;
 }
