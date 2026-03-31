@@ -110,7 +110,8 @@ h1:hover{
     color: var(--color-primary);
 cursor: pointer}
 time {
-font-size: 1rem;
+font-size: 0.8rem;
   color: var(--color-text-secondary);
   display: block;
+  margin-top: 1rem;
 }
